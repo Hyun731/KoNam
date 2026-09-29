@@ -104,6 +104,18 @@ async def expand(
                 if target not in nxt or nxt[target].key() < hit.key():
                     nxt[target] = hit
         nxt = {k: v for k, v in nxt.items() if k not in found or found[k].key() < v.key()}
+        # 기준일에 효력이 없는 조는 결과에서도, 다음 hop의 경유지로도 쓰지 않는다
+        # (예: 시행 전 개정 조문을 거쳐 무관한 조를 끌어오지 않도록)
+        if nxt:
+            valid_now = {
+                r.id
+                for r in (
+                    await session.execute(
+                        VALID_SQL, {"ids": list(nxt), "as_of": as_of, "include_samples": include_samples}
+                    )
+                ).all()
+            }
+            nxt = {k: v for k, v in nxt.items() if k in valid_now}
         found.update(nxt)
         # seed는 이미 frontier로 쓰였으므로 다음 hop에서는 새로 찾은 조만 확장한다
         fresh = {k: v for k, v in nxt.items() if k not in seeds}
