@@ -1,0 +1,24 @@
+{
+  "id": "04/2021/TT-BTC",
+  "dataset_id": "150959",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 04/2021/TT-BTC Quy định chi tiết một số điều của Nghị định số 03/2021/NĐ-CP ngày 15 tháng 01 năm 2021 của Chính phủ về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Tài chính",
+  "signer": "Huỳnh Quang Hải",
+  "issued_date": "2021-01-15",
+  "effective_from": "2021-03-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--150959",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [],
+  "replaces": [],
+  "repeals": []
+}

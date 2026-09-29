@@ -1,0 +1,17 @@
+{
+  "id": "01/2024/QH-TEST",
+  "doc_type": "luat",
+  "title_vi": "Luật Thuê nhà mẫu",
+  "title_ko": "주택임대 샘플법 (테스트 데이터)",
+  "short_names": ["Luật Thuê nhà mẫu"],
+  "issuer": "Quốc hội",
+  "issued_date": "2023-06-01",
+  "effective_from": "2024-01-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "source_url": null,
+  "domains": ["nha_o", "hop_dong"],
+  "guides": [],
+  "amends": [],
+  "is_sample": true
+}

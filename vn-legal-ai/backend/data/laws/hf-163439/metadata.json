@@ -1,0 +1,28 @@
+{
+  "id": "67/2023/TT-BTC",
+  "dataset_id": "163439",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 67/2023/TT-BTC Hướng dẫn một số điều của Luật Kinh doanh bảo hiểm, Nghị định số 46/2023/NĐ-CP ngày 01 tháng 7 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Kinh doanh bảo hiểm",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Tài chính",
+  "signer": "Cao Anh Tuấn",
+  "issued_date": "2023-11-02",
+  "effective_from": "2023-11-02",
+  "effective_to": null,
+  "status": "het_hieu_luc_mot_phan",
+  "status_at_crawl": "Hết hiệu lực một phần",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--163439",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [],
+  "replaces": [
+    "14/2022/TT-BTC"
+  ],
+  "repeals": [
+    "14/2022/TT-BTC"
+  ]
+}

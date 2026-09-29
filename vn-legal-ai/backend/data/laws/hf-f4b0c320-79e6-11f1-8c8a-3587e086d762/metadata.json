@@ -1,0 +1,28 @@
+{
+  "id": "238/2026/NĐ-CP",
+  "dataset_id": "f4b0c320-79e6-11f1-8c8a-3587e086d762",
+  "doc_type": "nghi_dinh",
+  "title_vi": "Nghị định số 238/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP ngày 26 tháng 12 năm 2024 của Chính phủ quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Chính phủ",
+  "signer": "Phạm Gia Túc",
+  "issued_date": "2026-06-26",
+  "effective_from": "2026-08-15",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Chưa có hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--f4b0c320-79e6-11f1-8c8a-3587e086d762",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "36/2024/QH15"
+  ],
+  "amends": [
+    "168/2024/NĐ-CP"
+  ],
+  "replaces": [],
+  "repeals": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "37/2023/TT-BGTVT",
+  "dataset_id": "164306",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 37/2023/TT-BGTVT Về quản lý hoạt động vận tải đường bộ qua biên giới",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Giao thông vận tải",
+  "signer": "Lê Đình Thọ",
+  "issued_date": "2023-12-13",
+  "effective_from": "2024-03-01",
+  "effective_to": null,
+  "status": "het_hieu_luc_mot_phan",
+  "status_at_crawl": "Hết hiệu lực một phần",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--164306",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [],
+  "replaces": [],
+  "repeals": [
+    "05/2023/TT-BGTVT"
+  ]
+}

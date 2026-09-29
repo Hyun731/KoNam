@@ -1,0 +1,26 @@
+{
+  "id": "41/2024/NĐ-CP",
+  "dataset_id": "166651",
+  "doc_type": "nghi_dinh",
+  "title_vi": "Nghị định số 41/2024/NĐ-CP Sửa đổi, bổ sung một số điều của các Nghị định liên quan đến quản lý hoạt động vận tải bằng xe ô tô, dịch vụ đào tạo lái xe ô tô và dịch vụ sát hạch lái xe",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Chính phủ",
+  "signer": "Trần Hồng Hà",
+  "issued_date": "2024-04-16",
+  "effective_from": "2024-06-01",
+  "effective_to": null,
+  "status": "het_hieu_luc_mot_phan",
+  "status_at_crawl": "Hết hiệu lực một phần",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--166651",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [],
+  "replaces": [],
+  "repeals": [
+    "158/2024/NĐ-CP"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "05/2024/TT-BGTVT",
+  "dataset_id": "166344",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 05/2024/TT-BGTVT Sửa đổi, bổ sung một số điều của các Thông tư liên quan đến lĩnh vực vận tải đường bộ, dịch vụ hỗ trợ vận tải đường bộ, phương tiện và người lái",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Giao thông vận tải",
+  "signer": "Nguyễn Duy Lâm",
+  "issued_date": "2024-03-31",
+  "effective_from": "2024-06-01",
+  "effective_to": null,
+  "status": "het_hieu_luc_mot_phan",
+  "status_at_crawl": "Hết hiệu lực một phần",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--166344",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [
+    "05/2023/TT-BGTVT"
+  ],
+  "replaces": [],
+  "repeals": []
+}

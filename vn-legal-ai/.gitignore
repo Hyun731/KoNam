@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+backend/eval/datasets/*.result.*.json
+node_modules/
+backend/data/hf/
+backend/data/laws/hf-*/raw.html
+mobile/.expo/
+mobile/dist/
+mobile/.env
+.DS_Store

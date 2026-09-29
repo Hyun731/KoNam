@@ -1,0 +1,26 @@
+{
+  "id": "151/2024/NĐ-CP",
+  "dataset_id": "174961",
+  "doc_type": "nghi_dinh",
+  "title_vi": "Nghị định số 151/2024/NĐ-CP Quy định chi tiết một số điều và biện pháp thi hành Luật Trật tự, an toàn giao thông đường bộ",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Chính phủ",
+  "signer": "Trần Hồng Hà",
+  "issued_date": "2024-11-15",
+  "effective_from": "2025-01-01",
+  "effective_to": null,
+  "status": "het_hieu_luc_mot_phan",
+  "status_at_crawl": "Hết hiệu lực một phần",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--174961",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "36/2024/QH15"
+  ],
+  "amends": [],
+  "replaces": [],
+  "repeals": []
+}

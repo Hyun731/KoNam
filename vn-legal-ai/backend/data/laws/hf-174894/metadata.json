@@ -1,0 +1,28 @@
+{
+  "id": "79/2024/TT-BCA",
+  "dataset_id": "174894",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 79/2024/TT-BCA Quy định về cấp, thu hồi chứng nhận đăng ký xe, biển số xe cơ giới, xe máy chuyên dùng",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Công an",
+  "signer": "Đại tướng Lương Tam Quang",
+  "issued_date": "2024-11-15",
+  "effective_from": "2025-01-01",
+  "effective_to": null,
+  "status": "het_hieu_luc_mot_phan",
+  "status_at_crawl": "Hết hiệu lực một phần",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--174894",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "36/2024/QH15"
+  ],
+  "amends": [],
+  "replaces": [],
+  "repeals": [
+    "28/2024/TT-BCA"
+  ]
+}

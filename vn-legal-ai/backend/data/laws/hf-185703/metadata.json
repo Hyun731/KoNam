@@ -1,0 +1,29 @@
+{
+  "id": "71/2025/TT-BXD",
+  "dataset_id": "185703",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 71/2025/TT-BXD Sửa đổi, bổ sung một số điều của các Thông tư để cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đăng kiểm, hàng không dân dụng và thanh tra thuộc phạm vi quản lý của Bộ Xây dựng",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Xây dựng",
+  "signer": "Lê Anh Tuấn",
+  "issued_date": "2025-12-31",
+  "effective_from": "2025-12-31",
+  "effective_to": null,
+  "status": "het_hieu_luc_mot_phan",
+  "status_at_crawl": "Hết hiệu lực một phần",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--185703",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "36/2024/QH15"
+  ],
+  "amends": [
+    "46/2024/TT-BGTVT",
+    "47/2024/TT-BGTVT"
+  ],
+  "replaces": [],
+  "repeals": []
+}

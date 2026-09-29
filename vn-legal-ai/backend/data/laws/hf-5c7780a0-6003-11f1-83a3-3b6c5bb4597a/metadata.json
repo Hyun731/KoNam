@@ -1,0 +1,26 @@
+{
+  "id": "78/2026/NĐ-CP",
+  "dataset_id": "5c7780a0-6003-11f1-83a3-3b6c5bb4597a",
+  "doc_type": "nghi_dinh",
+  "title_vi": "Nghị định 78/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 174/2024/NĐ-CP ngày 30 tháng 12 năm 2024 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực kinh doanh bảo hiểm",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Chính phủ",
+  "signer": "Hồ Đức Phớc",
+  "issued_date": "2026-03-17",
+  "effective_from": "2026-05-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--5c7780a0-6003-11f1-83a3-3b6c5bb4597a",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [
+    "174/2024/NĐ-CP"
+  ],
+  "replaces": [],
+  "repeals": []
+}

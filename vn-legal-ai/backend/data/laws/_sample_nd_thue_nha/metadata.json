@@ -1,0 +1,17 @@
+{
+  "id": "02/2024/NĐ-TEST",
+  "doc_type": "nghi_dinh",
+  "title_vi": "Nghị định quy định chi tiết Luật Thuê nhà mẫu",
+  "title_ko": "주택임대 샘플법 시행령 (테스트 데이터)",
+  "short_names": [],
+  "issuer": "Chính phủ",
+  "issued_date": "2024-01-15",
+  "effective_from": "2024-03-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "source_url": null,
+  "domains": ["nha_o", "hop_dong"],
+  "guides": ["01/2024/QH-TEST"],
+  "amends": [],
+  "is_sample": true
+}

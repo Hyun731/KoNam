@@ -1,0 +1,26 @@
+{
+  "id": "220/2026/NĐ-CP",
+  "dataset_id": "7da35fe0-7f31-11f1-8df0-5f93228b4774",
+  "doc_type": "nghi_dinh",
+  "title_vi": "Nghị định số 220/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 67/2023/NĐ-CP ngày 06 tháng 9 năm 2023 của Chính phủ quy định về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, bảo hiểm cháy, nổ bắt buộc, bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Chính phủ",
+  "signer": "Nguyễn Văn Thắng",
+  "issued_date": "2026-06-22",
+  "effective_from": "2026-07-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--7da35fe0-7f31-11f1-8df0-5f93228b4774",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [
+    "67/2023/NĐ-CP"
+  ],
+  "replaces": [],
+  "repeals": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "12/2025/TT-BCA",
+  "dataset_id": "175618",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 12/2025/TT-BCA Quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Công an",
+  "signer": "Đại tướng Lương Tam Quang",
+  "issued_date": "2025-02-28",
+  "effective_from": "2025-03-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--175618",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "36/2024/QH15"
+  ],
+  "amends": [],
+  "replaces": [],
+  "repeals": []
+}

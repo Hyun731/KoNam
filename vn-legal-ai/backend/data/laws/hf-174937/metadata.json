@@ -1,0 +1,26 @@
+{
+  "id": "174/2024/NĐ-CP",
+  "dataset_id": "174937",
+  "doc_type": "nghi_dinh",
+  "title_vi": "Nghị định số 174/2024/NĐ-CP Quy định về xử phạt vi phạm hành chính trong lĩnh vực kinh doanh bảo hiểm",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Chính phủ",
+  "signer": "Hồ Đức Phớc",
+  "issued_date": "2024-12-30",
+  "effective_from": "2025-02-15",
+  "effective_to": null,
+  "status": "het_hieu_luc_mot_phan",
+  "status_at_crawl": "Hết hiệu lực một phần",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--174937",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "67/2023/NĐ-CP"
+  ],
+  "amends": [],
+  "replaces": [],
+  "repeals": []
+}

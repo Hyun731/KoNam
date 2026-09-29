@@ -1,0 +1,28 @@
+{
+  "id": "22/2026/TT-BXD",
+  "dataset_id": "dce8f440-67d7-11f1-b409-03736c4d1aab",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư quy định về tiêu chuẩn, tập huấn đăng kiểm viên; cấp mới, cấp lại, tạm đình chỉ và thu hồi chứng chỉ đăng kiểm viên phương tiện giao thông đường bộ",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Xây dựng",
+  "signer": "Lê Anh Tuấn",
+  "issued_date": "2026-05-15",
+  "effective_from": "2026-07-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--dce8f440-67d7-11f1-b409-03736c4d1aab",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "36/2024/QH15"
+  ],
+  "amends": [],
+  "replaces": [],
+  "repeals": [
+    "71/2025/TT-BXD"
+  ]
+}

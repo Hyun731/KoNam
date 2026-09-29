@@ -1,0 +1,28 @@
+{
+  "id": "236/2026/NĐ-CP",
+  "dataset_id": "224b21d0-7d9e-11f1-bb7a-69f7cf2f90db",
+  "doc_type": "nghi_dinh",
+  "title_vi": "Nghị định số 236/2026/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 151/2024/NĐ-CP ngày 15 tháng 11 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Trật tự, an toàn giao thông đường bộ được sửa đổi, bổ sung bởi Nghị định số 184/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Chính phủ",
+  "signer": "Phạm Gia Túc",
+  "issued_date": "2026-06-26",
+  "effective_from": "2026-07-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--224b21d0-7d9e-11f1-bb7a-69f7cf2f90db",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "36/2024/QH15"
+  ],
+  "amends": [
+    "151/2024/NĐ-CP"
+  ],
+  "replaces": [],
+  "repeals": []
+}

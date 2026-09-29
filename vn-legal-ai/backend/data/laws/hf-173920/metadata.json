@@ -1,0 +1,26 @@
+{
+  "id": "168/2024/NĐ-CP",
+  "dataset_id": "173920",
+  "doc_type": "nghi_dinh",
+  "title_vi": "Nghị định số 168/2024/NĐ-CP Quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Chính phủ",
+  "signer": "Trần Hồng Hà",
+  "issued_date": "2024-12-26",
+  "effective_from": "2025-01-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--173920",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "36/2024/QH15"
+  ],
+  "amends": [],
+  "replaces": [],
+  "repeals": []
+}

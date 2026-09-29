@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "konam-web",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd vn-legal-ai/mobile && CI=1 npx expo start --web --port 8081"],
+      "port": 8081
+    },
+    {
+      "name": "konam-api",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd vn-legal-ai/backend && .venv/bin/uvicorn app.main:app --host 0.0.0.0 --port 8000"],
+      "port": 8000
+    }
+  ]
+}

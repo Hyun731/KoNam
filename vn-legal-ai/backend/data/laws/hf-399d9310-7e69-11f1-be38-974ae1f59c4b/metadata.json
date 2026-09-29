@@ -1,0 +1,26 @@
+{
+  "id": "96/2026/TT-BTC",
+  "dataset_id": "399d9310-7e69-11f1-be38-974ae1f59c4b",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 96/2026/TT-BTC Sửa đổi, bổ sung một số điều của Thông tư số 67/2023/TT-BTC ngày 02 tháng 11 năm 2023 của Bộ trưởng Bộ Tài chính hướng dẫn một số điều của Luật Kinh doanh bảo hiểm, Nghị định số 46/2023/NĐ-CP ngày 01 tháng 7 năm 2023 của Chính phủ quy định chi tiết thi hành một số điều của Luật Kinh doanh bảo hiểm",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Tài chính",
+  "signer": "Lê Tấn Cận",
+  "issued_date": "2026-07-02",
+  "effective_from": "2026-07-02",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--399d9310-7e69-11f1-be38-974ae1f59c4b",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [
+    "67/2023/TT-BTC"
+  ],
+  "replaces": [],
+  "repeals": []
+}

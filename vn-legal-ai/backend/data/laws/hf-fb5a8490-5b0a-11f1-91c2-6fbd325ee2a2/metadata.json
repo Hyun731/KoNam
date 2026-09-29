@@ -1,0 +1,24 @@
+{
+  "id": "02/2026/TT-BTC",
+  "dataset_id": "fb5a8490-5b0a-11f1-91c2-6fbd325ee2a2",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư 02/2026/TT-BTC Bãi bỏ Thông tư liên tịch số 72/2011/TTLT-BTC-BGTVT ngày 27 tháng 5 năm 2011 của Bộ trưởng Bộ Tài chính và Bộ trưởng Bộ Giao thông vận tải hướng dẫn cơ chế quản lý tài chính đào tạo lái xe cơ giới đường bộ",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Tài chính",
+  "signer": "Nguyễn Thị Bích Ngọc",
+  "issued_date": "2026-01-01",
+  "effective_from": "2026-02-20",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--fb5a8490-5b0a-11f1-91c2-6fbd325ee2a2",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [],
+  "replaces": [],
+  "repeals": []
+}

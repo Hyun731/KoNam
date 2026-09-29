@@ -1,0 +1,31 @@
+{
+  "id": "38/2024/TT-BGTVT",
+  "dataset_id": "173068",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 38/2024/TT-BGTVT Quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Giao thông vận tải",
+  "signer": "Nguyễn Duy Lâm",
+  "issued_date": "2024-11-15",
+  "effective_from": "2025-01-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--173068",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "35/2024/QH15",
+    "36/2024/QH15"
+  ],
+  "amends": [
+    "06/2023/TT-BGTVT"
+  ],
+  "replaces": [
+    "06/2023/TT-BGTVT"
+  ],
+  "repeals": []
+}

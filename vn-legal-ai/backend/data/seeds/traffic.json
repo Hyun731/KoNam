@@ -1,0 +1,92 @@
+{
+  "name": "베트남 도로교통 법령 (1차 데모 코퍼스)",
+  "source": "VBPL SOAP GetById (https://ws.vbpl.vn/vbqppl.asmx)",
+  "documents": [
+    {
+      "vbpl_item_id": 170620,
+      "title_ko": "도로교통 질서·안전법 (36/2024/QH15)",
+      "short_names": [
+        "Luật Trật tự, an toàn giao thông đường bộ",
+        "Luật TTATGTĐB"
+      ]
+    },
+    {
+      "vbpl_item_id": 172475,
+      "title_ko": "도로법 (35/2024/QH15)",
+      "short_names": [
+        "Luật Đường bộ"
+      ]
+    },
+    {
+      "vbpl_item_id": 173920,
+      "title_ko": "도로교통 행정위반 처벌·면허 벌점 시행령 (168/2024/NĐ-CP)"
+    },
+    {
+      "vbpl_item_id": 174961,
+      "title_ko": "도로교통 질서·안전법 시행령 (151/2024/NĐ-CP)"
+    },
+    {
+      "vbpl_item_id": 173895,
+      "title_ko": "도로법 시행령 (165/2024/NĐ-CP)"
+    },
+    {
+      "vbpl_item_id": 163442,
+      "title_ko": "자동차 의무 책임보험 시행령 (67/2023/NĐ-CP)"
+    },
+    {
+      "vbpl_item_id": 175618,
+      "title_ko": "운전면허 시험·발급·국제운전면허 규칙 (12/2025/TT-BCA)"
+    },
+    {
+      "vbpl_item_id": 174894,
+      "title_ko": "차량 등록·번호판 규칙 (79/2024/TT-BCA)"
+    },
+    {
+      "vbpl_item_id": 179019,
+      "title_ko": "차량 등록 규칙 개정 (51/2025/TT-BCA)"
+    },
+    {
+      "vbpl_item_id": 174888,
+      "title_ko": "면허 벌점 회복 교육·시험 규칙 (65/2024/TT-BCA)"
+    },
+    {
+      "vbpl_item_id": 174932,
+      "title_ko": "교통경찰 순찰·단속 규칙 (73/2024/TT-BCA)"
+    },
+    {
+      "vbpl_item_id": 174892,
+      "title_ko": "교통사고 조사·처리 절차 규칙 (72/2024/TT-BCA)"
+    },
+    {
+      "vbpl_item_id": 174890,
+      "title_ko": "교통경찰 교통 지휘 규칙 (69/2024/TT-BCA)"
+    },
+    {
+      "vbpl_item_id": 175620,
+      "title_ko": "교통 관련 규칙 일괄 개정 (13/2025/TT-BCA)"
+    },
+    {
+      "vbpl_item_id": 12333,
+      "title_ko": "(구) 도로교통법 (23/2008/QH12)",
+      "short_names": [
+        "Luật Giao thông đường bộ"
+      ]
+    },
+    {
+      "vbpl_item_id": 140152,
+      "title_ko": "(구) 도로·철도 교통 행정위반 처벌 시행령 (100/2019/NĐ-CP)"
+    },
+    {
+      "vbpl_item_id": 153339,
+      "title_ko": "(구) 교통 처벌 시행령 개정 (123/2021/NĐ-CP)"
+    }
+  ],
+  "not_available_via_soap": [
+    "Nghị định 238/2026/NĐ-CP (168/2024 개정) — vbpl.vn에 UUID 문서로만 존재",
+    "Nghị định 236/2026/NĐ-CP (151/2024 개정)",
+    "Nghị định 241/2026/NĐ-CP (165/2024 개정)",
+    "Thông tư 105/2026/TT-BCA (65/2024 개정)",
+    "Thông tư 108/2026/TT-BCA (운전면허, 12/2025 대체 여부 확인 필요)",
+    "Nghị định 220/2026/NĐ-CP (67/2023 개정)"
+  ]
+}

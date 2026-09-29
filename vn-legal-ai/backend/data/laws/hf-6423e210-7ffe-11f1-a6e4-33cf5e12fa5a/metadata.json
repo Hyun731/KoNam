@@ -1,0 +1,26 @@
+{
+  "id": "108/2026/TT-BCA",
+  "dataset_id": "6423e210-7ffe-11f1-a6e4-33cf5e12fa5a",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 108/2026/TT-BCA Quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Công an",
+  "signer": "Đại tướng Lương Tam Quang",
+  "issued_date": "2026-06-29",
+  "effective_from": "2026-07-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--6423e210-7ffe-11f1-a6e4-33cf5e12fa5a",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "36/2024/QH15"
+  ],
+  "amends": [],
+  "replaces": [],
+  "repeals": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "14/2022/TT-BTC",
+  "dataset_id": "155194",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 14/2022/TT-BTC Sửa đổi, bổ sung một số điều của Thông tư số 50/2017/TT-BTC ngày 15 tháng 5 năm 2017 của Bộ Tài chính hướng dẫn thi hành Nghị định số 73/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định chi tiết thi hành Luật Kinh doanh bảo hiểm và Luật sửa đổi, bổ sung một số điều của Luật kinh doanh bảo hiểm và Thông tư số 04/2021/TT-BTC ngày 15 tháng 01 năm 2021 của Bộ Tài chính quy định chi tiết một số điều của Nghị định số 03/2021/NĐ-CP ngày 15 tháng 01 năm 2021 của Chính phủ về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Tài chính",
+  "signer": "Nguyễn Đức Chi",
+  "issued_date": "2022-02-28",
+  "effective_from": "2022-02-28",
+  "effective_to": null,
+  "status": "het_hieu_luc_mot_phan",
+  "status_at_crawl": "Hết hiệu lực một phần",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--155194",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [
+    "04/2021/TT-BTC"
+  ],
+  "replaces": [],
+  "repeals": [
+    "67/2023/TT-BTC"
+  ]
+}

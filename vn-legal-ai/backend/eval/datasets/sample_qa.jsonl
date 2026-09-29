@@ -1,0 +1,5 @@
+{"id": "s1", "question": "집주인이 보증금을 얼마까지 받을 수 있나요?", "lang": "ko", "expected": ["01/2024/QH-TEST:D4", "02/2024/NĐ-TEST:D2"]}
+{"id": "s2", "question": "세입자가 월세를 몇 달 안 내면 집주인이 계약을 끝낼 수 있나요?", "lang": "ko", "expected": ["01/2024/QH-TEST:D5"]}
+{"id": "s3", "question": "Mức phạt vi phạm hợp đồng thuê nhà tối đa là bao nhiêu?", "lang": "vi", "expected": ["01/2024/QH-TEST:D6"]}
+{"id": "s4", "question": "Hợp đồng thuê nhà 1 năm có phải công chứng không?", "lang": "vi", "expected": ["01/2024/QH-TEST:D3"]}
+{"id": "s5", "question": "계약 해지 통보는 어떤 형식으로 해야 하나요?", "lang": "ko", "expected": ["01/2024/QH-TEST:D5", "02/2024/NĐ-TEST:D3"]}

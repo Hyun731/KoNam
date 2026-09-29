@@ -1,0 +1,28 @@
+{
+  "id": "51/2025/TT-BCA",
+  "dataset_id": "179019",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 51/2025/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 79/2024/TT-BCA ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Công an quy định về cấp, thu hồi chứng nhận đăng ký xe, biển số xe cơ giới, xe máy chuyên dùng đã được sửa đổi, bổ sung tại Thông tư số 13/2025/TT-BCA ngày 28 ngày 02 năm 2025 của Bộ trưởng Bộ Công an",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Công an",
+  "signer": "Đại tướng Lương Tam Quang",
+  "issued_date": "2025-06-30",
+  "effective_from": "2025-07-01",
+  "effective_to": null,
+  "status": "con_hieu_luc",
+  "status_at_crawl": "Còn hiệu lực",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--179019",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [
+    "36/2024/QH15"
+  ],
+  "amends": [
+    "79/2024/TT-BCA"
+  ],
+  "replaces": [],
+  "repeals": []
+}

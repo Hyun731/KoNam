@@ -1,0 +1,28 @@
+{
+  "id": "06/2023/TT-BGTVT",
+  "dataset_id": "161092",
+  "doc_type": "thong_tu",
+  "title_vi": "Thông tư số 06/2023/TT-BGTVT Sửa đổi, bổ sung một số điều của các Thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ",
+  "title_ko": null,
+  "short_names": [],
+  "issuer": "Bộ Giao thông vận tải",
+  "signer": "Lê Đình Thọ",
+  "issued_date": "2023-05-12",
+  "effective_from": "2023-07-01",
+  "effective_to": null,
+  "status": "het_hieu_luc_mot_phan",
+  "status_at_crawl": "Hết hiệu lực một phần",
+  "source_url": "https://vbpl.vn/van-ban/chi-tiet/--161092",
+  "source": "Vietnamese Legal Documents (th1nhng0, CC BY 4.0) — vbpl.vn",
+  "domains": [
+    "giao_thong"
+  ],
+  "guides": [],
+  "amends": [
+    "39/2020/TT-BGTVT"
+  ],
+  "replaces": [],
+  "repeals": [
+    "38/2024/TT-BGTVT"
+  ]
+}
